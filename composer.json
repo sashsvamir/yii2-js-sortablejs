@@ -18,7 +18,7 @@
     ],
     "require": {
         "yiisoft/yii2": "^2.0",
-        "bower-asset/jquery.scrollto": "^2.1"
+        "bower-asset/sortablejs": "~1.6"
     },
     "autoload": {
         "psr-4": {
