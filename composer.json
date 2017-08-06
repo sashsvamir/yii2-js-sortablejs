@@ -1,0 +1,28 @@
+{
+    "name": "sashsvamir/yii2-js-sortablejs",
+    "description": "Sortablejs js yii2 asset",
+    "type": "yii2-extension",
+    "keywords": [
+        "sashsvamir",
+        "yii2",
+        "asset",
+        "sortable",
+        "sortablejs"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Shchukin",
+            "email": "alexander@shykin.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "^2.0",
+        "bower-asset/jquery.scrollto": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "sashsvamir\\sortablejs\\": ""
+        }
+    }
+}
